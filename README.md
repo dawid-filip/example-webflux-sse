@@ -1,1 +1,1 @@
-# example-webflux-sse
+# Example of Server-Sent Events.
